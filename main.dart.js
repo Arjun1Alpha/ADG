@@ -77277,7 +77277,7 @@ r($,"aI7","aZ",()=>$.ajD())
 r($,"aHG","agB",()=>{A.ayi()
 return B.BM})
 s($,"aIi","asN",()=>{var q=null,p=t.yo
-p=A.c([A.ahu(new A.ag0(),"/",A.c([A.ahu(new A.ag1(),"test/:id",B.md)],p))],p)
+p=A.c([A.ahu(new A.ag0(),"/",A.c([A.ahu(new A.ag1(),"/test/:id",B.md)],p))],p)
 return A.avp(!1,q,q,q,q,q,q,q,q,!1,q,!0,q,!1,new A.JL(new A.a3y(p,A.aDE(),5,q)))})
 s($,"aHf","as4",()=>A.aih(1,1,500))
 s($,"aGt","arw",()=>A.az_(new A.a93(),t.Pb))
